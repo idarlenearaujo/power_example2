@@ -25,7 +25,7 @@ Este projeto, desenvolvido para o desafio da DIO, tem como objetivo replicar e p
 ![image](https://github.com/user-attachments/assets/e9a529d5-40c5-4391-ac75-960e7d9c802e)
 
 -  **Top 3 Produtos Mais Vendidos:** Gráfico destacando os três produtos mais vendidos, com suas respectivas vendas.
--  **Soma de Vendas, Unidades e Lucro por Produto e Mês:** Gráfico mostrando a soma das vendas, unidades vendidas e lucro por produto ao longo do mês.
+-  **Soma de Vendas, Unidades e Lucro por Produto e Mês:** Gráfico mostrando a soma das vendas, unidades vendidas e lucro por produto.
 -  **Soma de Sales no Top3 Produtos:** Gráfico de barras mostrando as vendas por país, incluindo Estados Unidos, Canadá, França, Alemanha e México.
 
 - **Data Analytics:**

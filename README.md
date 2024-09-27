@@ -2,7 +2,7 @@
 
 ### Descrição do Projeto
 
-Este projeto, desenvolvido no âmbito do desafio da DIO, tem como objetivo replicar e personalizar as páginas existentes. As páginas Home e Principal já estavam prontas, sendo necessário criar as seguintes páginas adicionais:
+Este projeto, desenvolvido para o desafio da DIO, tem como objetivo replicar e personalizar as páginas existentes. As páginas Home e Principal já estavam prontas, sendo necessário criar as seguintes páginas adicionais:
 
 -  **Detalhes de Vendas:** Análise detalhada das vendas.
 -  **TopN & Outliers:** Identificação dos principais produtos e outliers.
